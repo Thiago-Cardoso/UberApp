@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">UberClone</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_register">Cadastrar uma conta</string>
+    <string name="title_login">Acessar minha conta</string>
+    <string name="title_activity_requisition">RequisitionActivity</string>
 </resources>
